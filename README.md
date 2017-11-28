@@ -1,6 +1,11 @@
 # Brew Cooler
 [![GitHub release](https://img.shields.io/github/release/Artistan/brew-cooler.svg)](https://github.com/Artistan/brew-cooler/releases)
 
+Store your brew in a cooler to make it easy to backup
+Mine is going to the cloud. How about you? 
+
+Suggestions welcome!
+
 ## Install
 First, please run `./setup-backup.sh` and `./setup-update.sh`.
 
