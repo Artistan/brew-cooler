@@ -8,7 +8,7 @@
     <true/>
     <key>ProgramArguments</key>
     <array>
-	    <string>"__DIRNAME__/backup.sh"</string>
+	    <string>__DIRNAME__/backup.sh</string>
     </array>
     <key>StartInterval</key>
     <integer>7200</integer>
