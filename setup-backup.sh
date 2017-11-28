@@ -3,7 +3,7 @@
 # run from this directory
 cd "$(dirname "$0")"
 
-plist_path="daily.plist"
+plist_path="backup-brew.plist"
 
 echo "installing launchctl plist: $plist_path --> ~/Library/LaunchAgents/net.artistan.brew-cooler.plist"
 cp -f "$plist_path" ~/Library/LaunchAgents/net.artistan.brew-cooler.plist
