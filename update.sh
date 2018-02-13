@@ -15,3 +15,6 @@ brew doctor
 
 brew bundle --force dump
 
+
+vagrant plugin repair
+vagrant plugin update
