@@ -3,6 +3,8 @@
 # run from this directory
 cd "$(dirname "$0")"
 
+sudo launchctl remove net.artistan.brew-cooler
+
 plist_path="backup-brew.plist"
 
 echo "installing launchctl plist: $plist_path --> ~/Library/LaunchAgents/net.artistan.brew-cooler.plist"

@@ -8,8 +8,10 @@ source ~/.bashrc 2> /dev/null
 brew cleanup
 brew doctor
 
-brew update
-brew upgrade
+brew bundle
 
 brew cleanup
 brew doctor
+
+brew bundle --force dump
+
