@@ -5,7 +5,7 @@
 source ~/.zshrc 2> /dev/null
 source ~/.bashrc 2> /dev/null
 
-brew tap caskroom/versions
+#brew tap caskroom/versions
 
 brew cleanup
 brew doctor
