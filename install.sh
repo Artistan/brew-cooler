@@ -6,5 +6,5 @@ brew bundle
 
 vagrant plugin install vagrant-host-shell
 vagrant plugin install vagrant-bindfs
-vagrant plugin install vagrant-hostsupdater
+vagrant plugin install vagrant-hostmanager
 vagrant plugin install vagrant-vbguest
